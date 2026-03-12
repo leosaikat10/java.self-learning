@@ -10,5 +10,6 @@ public class loops {
 
             System.out.print(i+",");
         }
+        sc.close();
     }
 }

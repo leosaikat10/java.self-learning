@@ -12,5 +12,6 @@ public class Decisionmaking {
         else{
             System.out.println("You are not eligible to vote.");
         }
+        sc.close();
     }
 }

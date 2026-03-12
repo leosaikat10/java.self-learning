@@ -12,5 +12,6 @@ public class userinput {
         System.out.println("my name is "+name);
         System.out.println("My age is "+age);
         System.out.println("Are you single ?"+single);
+        sc.close();
     }
 }
